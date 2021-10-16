@@ -263,10 +263,9 @@ text-align: center;
 font-weight: 500;
 margin-bottom: 10px;
 font-size: 16px;
-line-height: 1.19
+line-height: 1.19;
 letter-spacing: 0.03em;
-color: var(--primary-text-color)
-
+color: var(--primary-text-color);
 }
 
 .team-item-text {
