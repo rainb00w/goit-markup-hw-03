@@ -259,12 +259,14 @@ margin-bottom: 50px;
 }
 
 .team-item-title {
-    text-align: center;
+text-align: center;
 font-weight: 500;
+margin-bottom: 10px;
 font-size: 16px;
 line-height: 1.19
 letter-spacing: 0.03em;
 color: var(--primary-text-color)
+
 }
 
 .team-item-text {
